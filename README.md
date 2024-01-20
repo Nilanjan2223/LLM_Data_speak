@@ -3,8 +3,7 @@
 ## Overview 
 This project combines the power of Language Model (LLM) frameworks, Google Palm API, and Streamlit to create an interactive tool for gaining insights into a MySQL database. With the ability to generate SQL queries using natural language, users can seamlessly communicate with the database, retrieve valuable information, and visualize data patterns.
 
-![]("https://github.com/Nilanjan2223/LLM_Data_speak/blob/main/12.png")
-
+![Overview](https://github.com/Nilanjan2223/LLM_Data_speak/assets/99826967/d9d4fee5-b673-4166-824b-dea741e7549a)
 
 ##Requirements:
 langchain==0.0.284 \
