@@ -5,7 +5,7 @@ This project combines the power of Language Model (LLM) frameworks, Google Palm 
 
 ![Overview](https://github.com/Nilanjan2223/LLM_Data_speak/assets/99826967/d9d4fee5-b673-4166-824b-dea741e7549a)
 
-##Requirements:
+## Requirements:
 langchain==0.0.284 \
 python-dotenv==1.0.0\
 streamlit==1.22.0\
@@ -17,5 +17,12 @@ mysql-connector-python\
 pymysql\
 sentence-transformers\
 chromadb\
+
+## Acknowledgments
+
+I would like to express my sincere gratitude to codebasic for their invaluable tutorials and code examples. Their guidance and clear explanations have been instrumental in helping me understand and implement the language model (LLM) in this project.\
+
+Thank you for sharing your knowledge and making a positive impact on my learning journey!
+
 
 
