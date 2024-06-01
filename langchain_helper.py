@@ -13,7 +13,7 @@ import os
 
 
 def get_few_shot_db_chain():
-    llm = GooglePalm(google_api_key='AIzaSyBzm3gVQF2UOaBj1mzXnp-RrqcjIXvbGY8', temperature=0.1)
+    llm = GooglePalm(google_api_key="", temperature=0.1)
 
     db_user = "root"
     db_password = "1234"
